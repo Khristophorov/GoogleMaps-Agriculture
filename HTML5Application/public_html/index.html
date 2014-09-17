@@ -4,35 +4,9 @@
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
         <meta charset="utf-8">
         <title>KML Layers</title>
-        <style>
-            html, body {
-                height: 100%;
-                margin: 0px;
-                padding: 0px;
-            }
-            #map-canvas {
-                height: 100%;
-            }
-            #companies {
-                height: 100%;
-                float: left;
-            }
-        </style>
+        <link href="css/main_styles.css" rel="stylesheet" type="text/css"/>
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-        <script>
-            function initialize() {
-
-                var map = new google.maps.Map(document.getElementById('map-canvas'));
-
-                var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://raw.githubusercontent.com/Khristophorov/GoogleMaps-Agriculture/master/HTML5Application/public_html/Agriculture_test.kml'
-                });
-                ctaLayer.setMap(map);
-            }
-
-            google.maps.event.addDomListener(window, 'load', initialize);
-
-        </script>
+        <script src="js/mapEngine.js" type="text/javascript"></script>
     </head>
     <body>
         <form id="companies">

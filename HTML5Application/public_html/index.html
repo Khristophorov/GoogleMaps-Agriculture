@@ -14,16 +14,14 @@
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
         <script>
             function initialize() {
-                var chicago = new google.maps.LatLng(46.50, 30.70);
                 var mapOptions = {
-                    zoom: 11,
-                    center: chicago
+                    zoom: 5
                 }
 
                 var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
                 var ctaLayer = new google.maps.KmlLayer({
-                    url: 'http://www.ex.ua/get/415253470023/126038'
+                    url: 'https://raw.githubusercontent.com/Khristophorov/GoogleMaps-Agriculture/master/HTML5Application/public_html/Agriculture_test.kml'
                 });
                 ctaLayer.setMap(map);
             }

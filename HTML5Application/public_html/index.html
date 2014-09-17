@@ -5,10 +5,17 @@
         <meta charset="utf-8">
         <title>KML Layers</title>
         <style>
-            html, body, #map-canvas {
+            html, body {
                 height: 100%;
                 margin: 0px;
-                padding: 0px
+                padding: 0px;
+            }
+            #map-canvas {
+                height: 100%;
+            }
+            #companies {
+                height: 100%;
+                float: left;
             }
         </style>
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
@@ -28,6 +35,12 @@
         </script>
     </head>
     <body>
+        <form id="companies">
+            <select>
+                <option>1</option>
+                <option>2</option>
+            </select>
+        </form>
         <div id="map-canvas"></div>
     </body>
 </html>

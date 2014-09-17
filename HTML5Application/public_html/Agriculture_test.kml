@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Сельскохозяйственные предприятия</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Style id="sn_free-vector-shop-front-icon_101486_Shop_front_Icon">
+			<IconStyle>
+				<color>ff7fffff</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://4vector.com/i/free-vector-shop-front-icon_101486_Shop_front_Icon.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="msn_free-vector-shop-front-icon_101486_Shop_front_Icon0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_free-vector-shop-front-icon_101486_Shop_front_Icon0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_free-vector-shop-front-icon_101486_Shop_front_Icon0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_free-vector-shop-front-icon_101486_Shop_front_Icon0">
+			<IconStyle>
+				<color>ff7fffff</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://4vector.com/i/free-vector-shop-front-icon_101486_Shop_front_Icon.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="sn_ferma">
+			<IconStyle>
+				<color>ff7fffff</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.icohunter.com/png_preview/different/ferma.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="sh_free-vector-shop-front-icon_101486_Shop_front_Icon0">
+			<IconStyle>
+				<color>ff7fffff</color>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://4vector.com/i/free-vector-shop-front-icon_101486_Shop_front_Icon.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="msn_ferma">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ferma</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ferma</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_free-vector-shop-front-icon_101486_Shop_front_Icon">
+			<IconStyle>
+				<color>ff7fffff</color>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://4vector.com/i/free-vector-shop-front-icon_101486_Shop_front_Icon.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="sh_ferma">
+			<IconStyle>
+				<color>ff7fffff</color>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://www.icohunter.com/png_preview/different/ferma.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="msn_free-vector-shop-front-icon_101486_Shop_front_Icon">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_free-vector-shop-front-icon_101486_Shop_front_Icon</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_free-vector-shop-front-icon_101486_Shop_front_Icon</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>Одесская обл.</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Коровье счастье</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://img01.chitalnya.ru/upload2/490/27671805443242.jpg" height="300"/>
+<h3>Магазин "Коровье счастье"</h3>
+<a href="http://www.cowhappy.com.ua">www.cowhappy.com.ua</a>
+
+<p>г. Одесса, ул. Новосельского, 24</p>
+<p>тел. (048)777-77-77</p>]]></description>
+				<LookAt>
+					<longitude>30.73233027885592</longitude>
+					<latitude>46.48023092351743</latitude>
+					<altitude>0</altitude>
+					<heading>1.161660489897233</heading>
+					<tilt>0</tilt>
+					<range>3317.253151255276</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_free-vector-shop-front-icon_101486_Shop_front_Icon0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>30.72921776228244,46.47984723740835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ферма Ивановых</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<h3>Коровья ферма Ивановых</h3>
+
+<p>Беляевский район, с. Усатово, ул. Конная, 24</p>
+<p>тел. (048)456-77-77</p>]]></description>
+				<LookAt>
+					<longitude>30.65135206359114</longitude>
+					<latitude>46.53429231540696</latitude>
+					<altitude>0</altitude>
+					<heading>0.001310637487364281</heading>
+					<tilt>44.99872499527601</tilt>
+					<range>269.1073696434996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ferma</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>30.65100303000593,46.53415226197544,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Херсонская обл.</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Коровье счастье</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://img01.chitalnya.ru/upload2/490/27671805443242.jpg" height="300"/>
+<h3>Магазин "Коровье счастье"</h3>
+<a href="http://www.cowhappy.com.ua">www.cowhappy.com.ua</a>
+
+<p>г. Каховка, ул. Мелитопольская, 154</p>
+<p>тел. (05536)4-77-77</p>]]></description>
+				<LookAt>
+					<longitude>33.48820203563287</longitude>
+					<latitude>46.81293682776391</latitude>
+					<altitude>0</altitude>
+					<heading>2.041115793331495</heading>
+					<tilt>26.95244948651972</tilt>
+					<range>456.9813046663833</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_free-vector-shop-front-icon_101486_Shop_front_Icon</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>33.48814961219564,46.81280821528829,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ферма Петровых</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<h3>Свинная ферма Петровых</h3>
+
+<p>Каховский район, с. Коробки, Бериславское шоссе, 84</p>
+<p>тел. (05536)5-77-77</p>]]></description>
+				<LookAt>
+					<longitude>33.48706358045448</longitude>
+					<latitude>46.73373751245611</latitude>
+					<altitude>0</altitude>
+					<heading>2.05586819562569</heading>
+					<tilt>13.45133972840994</tilt>
+					<range>2825.442624705816</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ferma</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>33.50154305166092,46.73565844349589,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
